@@ -10,7 +10,7 @@
   <p align="center">
     This is a small tool to restore Windows system tray icons!
     <br />
-    <a href="https://github.com/hybri-id/scaling-fiesta/raw/main/win_tray_restore.bat" target="_blank">
+    <a href="https://github.com/hybri-id/scaling-fiesta/archive/refs/heads/main.zip" target="_blank">
     <br />
     <img src="https://img.shields.io/badge/DOWNLOAD-blue" alt="Download" width="190" height="60">
     </a>
